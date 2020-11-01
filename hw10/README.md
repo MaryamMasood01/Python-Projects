@@ -11,7 +11,7 @@
 self
 other
 real -  the real number component.
-image - the imaginary number coefficient.
+image - the imaginary number coefficient.    
 **Return Value**: None.
 
 ### __str__(self):
@@ -34,29 +34,29 @@ new_real - a new real number component to replace the current one
 
 ### set_imag(self, new_imag):
 **Purpose**: Sets the imaginary component of a given Complex object.     
-**Input Parameters**: 
+**Input Parameters**:     
 self   
 new_imag - a new imaginary number component to replace the current one   
 
 ### __add__(self, other):
 **Purpose**: Adds two Complex objects     
-**Input Parameters**:
+**Input Parameters**:    
 self    
 other - another complex object    
 **Return Value**: the sum of the two parameters    
 
 ### __mul__(self, other):
 **Purpose**: Multiplies two Complex objects      
-**Input Parameters**:
+**Input Parameters**:        
 self    
 other - another complex object    
 **Return Value**: the product of the two parameters    
 
 ### __eq__(self, other):
 **Purpose**: Evaluates whether two Complex objects are equal     
-**Input Parameters**:
+**Input Parameters**:    
 self     
 other - another complex object    
-**Return Value**:
+**Return Value**:      
 True if the two objects are equal    
 False if the two objects are not equal    
