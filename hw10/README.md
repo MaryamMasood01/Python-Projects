@@ -16,47 +16,47 @@ image - the imaginary number coefficient.
 
 ### __str__(self):
 **Purpose**: Returns a Complex object represented as a String.  
-**Input Parameters**: self
+**Input Parameters**: self   
 
 ### get_real(self):
-**Purpose**: Returns the real component of a given Complex object.  
-**Input Parameters**: self
+**Purpose**: Returns the real component of a given Complex object.     
+**Input Parameters**: self   
 
-### get_imag(self):
-**Purpose**: Returns the imaginary component of a given Complex object.  
-**Input Parameters**: self
+### get_imag(self):   
+**Purpose**: Returns the imaginary component of a given Complex object.     
+**Input Parameters**: self   
 
 ### set_real(self, new_real):
-**Purpose**: Sets the real component of a given Complex object.  
+**Purpose**: Sets the real component of a given Complex object.     
 **Input Parameters**: 
-self
-new_real - a new real number component to replace the current one
+self    
+new_real - a new real number component to replace the current one    
 
 ### set_imag(self, new_imag):
-**Purpose**: Sets the imaginary component of a given Complex object.  
+**Purpose**: Sets the imaginary component of a given Complex object.     
 **Input Parameters**: 
-self
-new_imag - a new imaginary number component to replace the current one
+self   
+new_imag - a new imaginary number component to replace the current one   
 
 ### __add__(self, other):
-**Purpose**: Adds two Complex objects  
+**Purpose**: Adds two Complex objects     
 **Input Parameters**:
-self
-other - another complex object
-**Return Value**: the sum of the two parameters
+self    
+other - another complex object    
+**Return Value**: the sum of the two parameters    
 
 ### __mul__(self, other):
-**Purpose**: Multiplies two Complex objects  
+**Purpose**: Multiplies two Complex objects      
 **Input Parameters**:
-self
-other - another complex object
-**Return Value**: the product of the two parameters
+self    
+other - another complex object    
+**Return Value**: the product of the two parameters    
 
 ### __eq__(self, other):
-**Purpose**: Evaluates whether two Complex objects are equal 
+**Purpose**: Evaluates whether two Complex objects are equal     
 **Input Parameters**:
-self 
-other - another complex object
+self     
+other - another complex object    
 **Return Value**:
-True if the two objects are equal
-False if the two objects are not equal
+True if the two objects are equal    
+False if the two objects are not equal    
