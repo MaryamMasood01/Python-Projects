@@ -28,7 +28,7 @@ image - the imaginary number coefficient.
 
 ### set_real(self, new_real):
 **Purpose**: Sets the real component of a given Complex object.     
-**Input Parameters**: 
+**Input Parameters**:       
 self    
 new_real - a new real number component to replace the current one    
 
