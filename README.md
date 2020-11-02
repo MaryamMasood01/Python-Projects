@@ -1,2 +1,4 @@
 ## Python-Projects
-This repository contains Python projects completed in CSCI-1133 - Introduction to Computing and Programming Concepts in Python.
+This repository contains projects written in Python that were once school assignments.
+
+*NOTE*: README.md files are being added to each file explaining each part and?or function.
